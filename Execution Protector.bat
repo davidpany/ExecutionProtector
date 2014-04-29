@@ -10,4 +10,3 @@ for %%f in (*.*) do (
 		ren "%%f" "%%f_"
 		)
 	)
-PAUSE
